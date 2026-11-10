@@ -1,0 +1,30 @@
+AI Application Security Assessment - Project Repositories
+GitHub account: thermalPasteMilkshake
+=========================================================
+
+Project 1 - LLM Security Fundamentals
+  https://github.com/thermalPasteMilkshake/project1-vulnerable-ai-chat
+
+Project 2 - Prompt Injection Defence
+  https://github.com/thermalPasteMilkshake/project2-defence-layer
+
+Project 3 - AI Red Teaming
+  https://github.com/thermalPasteMilkshake/project3-redteam
+
+Project 4 - MCP Pentesting
+  https://github.com/thermalPasteMilkshake/project4-mcp-security
+
+Project 5 - DevSecOps Pipeline
+  https://github.com/thermalPasteMilkshake/techcorp-devsecops-gates
+
+Project 6 - Full Penetration Test
+  https://github.com/thermalPasteMilkshake/project6-pentest
+
+Project 7 - Compliance Mapping
+  https://github.com/thermalPasteMilkshake/project7-compliance
+
+Project 8 - Reporting & Presentation
+  https://github.com/thermalPasteMilkshake/project8-report
+
+Project 9 - Capstone Secure Application
+  https://github.com/thermalPasteMilkshake/project-9
